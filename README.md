@@ -6,5 +6,5 @@
 * AWS cognito
 * AWS API Gateway
 
-# Following libs to try
+### Following libs to try
 * https://github.com/wix/react-native-calendars

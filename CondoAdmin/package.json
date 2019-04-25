@@ -1,5 +1,5 @@
 {
-  "name": "CondoAdmin",
+  "name": "condo-admin",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,6 +7,11 @@
   },
   "dependencies": {
     "react": "16.8.3",
-    "react-native": "0.59.1"
+    "react-native": "0.58.6",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-navigation": "3.9.0"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.53.1"
   }
 }
